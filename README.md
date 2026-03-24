@@ -1,5 +1,8 @@
 # pixel-police
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Visual regression testing: screenshot comparison with before/after diff.**
 
 Catch unintended visual changes before they ship. Capture screenshots, set baselines, and compare with pixel-level precision.
